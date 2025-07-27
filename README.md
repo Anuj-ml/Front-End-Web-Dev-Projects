@@ -10,7 +10,7 @@ This project is a clean recreation of a *Morpeko Pokémon TCG card* using only *
 
 To showcase the card layout, here's a screenshot of the project in action:
 
-![Screenshot of Morpeko Card](./pokemon.jpg)
+![Screenshot of Morpeko Card](./pokemon.jpeg)
 
 ---
 
